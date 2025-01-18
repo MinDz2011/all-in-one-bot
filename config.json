@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTMzMDA5MTc0MzE2MDU2NTgwNA.G4ptzy.riavycqox_E07_WNabYiay-fbkvxTiq6B2xXO8",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "",
+    "prefix": "y!",
+    "mongodbUri": "mongodb+srv://axo:axoop@cluster0.imckmpc.mongodb.net/?retryWrites=true&w=majority",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
