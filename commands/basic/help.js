@@ -74,7 +74,7 @@ module.exports = {
                     title: 'Bot Information',
                     description: `Welcome to the help command! This bot provides a variety of commands to enhance your server experience. Below are the categories and the number of commands available in each.`,
                     commands: [
-                        `**💜 Bot Developer:** GlaceYT\n` +
+                        `**💜 Bot Developer:** YuongzMin\n` +
                         `**Bot Version:** 1.2.0\n` +
                         `**Total Servers:** ${totalServers}\n` +
                         `**Total Members:** ${totalMembers}\n` +
@@ -85,9 +85,9 @@ module.exports = {
                     ],
                     color: "#3498db",
                     author: {
-                        name: 'All In One',
+                        name: 'YuongzBot',
                         iconURL: "https://cdn.discordapp.com/attachments/1246408947708072027/1255167194036437093/1558-zerotwo-exciteddance.gif?ex=667c250a&is=667ad38a&hm=09e6db36fd79436eb57de466589f21ca947329edd69b8e591d0f6586b89df296&",
-                        url: "https://discord.gg/xQF9f9yUEM"
+                        url: "https://discord.gg/SPD3F9AwEu"
                     }
                 });
 
@@ -172,7 +172,7 @@ module.exports = {
                     title: 'Bot Information',
                     description: `Welcome to the help command! This bot provides a variety of commands to enhance your server experience. Below are the categories and the number of commands available in each.`,
                     commands: [
-                        `**💜 Bot Developer:** GlaceYT\n` +
+                        `**💜 Bot Developer:** YuongzMin\n` +
                         `**Bot Version:** 1.2.0\n` +
                         `**Total Servers:** ${totalServers}\n` +
                         `**Total Members:** ${totalMembers}\n` +
@@ -183,9 +183,9 @@ module.exports = {
                     ],
                     color: "#3498db",
                     author: {
-                        name: 'All In One',
+                        name: 'YuongzBot',
                         iconURL: "https://cdn.discordapp.com/attachments/1246408947708072027/1255167194036437093/1558-zerotwo-exciteddance.gif?ex=667c250a&is=667ad38a&hm=09e6db36fd79436eb57de466589f21ca947329edd69b8e591d0f6586b89df296&",
-                        url: "https://discord.gg/xQF9f9yUEM"
+                        url: "https://discord.gg/SPD3F9AwEu"
                     }
                 });
 
@@ -214,7 +214,7 @@ module.exports = {
                         color: "#3498db",
                         author: {
                             name: `${category.charAt(0).toUpperCase() + category.slice(1)} Commands`,
-                            url: "https://discord.gg/xQF9f9yUEM"
+                            url: "https://discord.gg/SPD3F9AwEu"
                         }
                     };
 
@@ -325,7 +325,7 @@ module.exports = {
                 .setAuthor({ 
                     name: "Alert!", 
                     iconURL: cmdIcons.dotIcon,
-                    url: "https://discord.gg/xQF9f9yUEM"
+                    url: "https://discord.gg/SPD3F9AwEu"
                 })
                 .setDescription('- This command can only be used through slash command!\n- Please use `/help`')
                 .setTimestamp();
